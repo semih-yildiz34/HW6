@@ -116,7 +116,7 @@ Actual deployment on STM hardware is not performed in this homework, but the gen
 
 ## 8. Repository Structure
 
-'''test
+'''
 
 HW6/
 ├── code/ # Training, conversion, and evaluation scripts
