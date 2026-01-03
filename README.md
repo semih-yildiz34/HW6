@@ -164,5 +164,3 @@ This repository is prepared solely for academic purposes as part of EE4065 cours
 
 
 
-## 8. Repository Structure
-
