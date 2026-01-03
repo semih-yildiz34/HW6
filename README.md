@@ -116,7 +116,7 @@ Actual deployment on STM hardware is not performed in this homework, but the gen
 
 ## 8. Repository Structure
 
-'''
+"""
 
 HW6/
 ├── code/ # Training, conversion, and evaluation scripts
@@ -124,7 +124,7 @@ HW6/
 ├── results/ # CSV result files
 └── .gitignore
 
-'''
+"""
 
 
 ---
