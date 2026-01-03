@@ -1,0 +1,4 @@
+model,test_accuracy,params_total,tflite_size_bytes
+mobilenetv2_frozen,0.6095,2270794,2519944
+mobilenetv2_finetune,0.9716,2270794,2519944
+smallcnn,0.9929,315722,325536

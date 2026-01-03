@@ -1,0 +1,4 @@
+model,test_accuracy,params_M,tflite_KB,tflite_MB,acc_per_MB
+mobilenetv2_frozen,0.6095,2.271,2460.9,2.403,0.25
+mobilenetv2_finetune,0.9716,2.271,2460.9,2.403,0.40
+smallcnn,0.9929,0.316,317.9,0.310,3.20
