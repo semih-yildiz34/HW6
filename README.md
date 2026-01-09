@@ -145,7 +145,7 @@ Through comparative evaluation, it is shown that **task-specific lightweight CNN
 
 ## 11. Notes
 
-This repository is prepared solely for academic purposes as part of EE4065 coursework..
+This repository is prepared solely for academic purposes as part of EE4065 coursework.
 
 
 
